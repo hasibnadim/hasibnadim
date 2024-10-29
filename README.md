@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Ask me about Node.js, Go & Rust
+- 💬 Ask me about Node.js, PHP, and Go
 
 ["hasibnadim0","gmail.com"].join("@")
 <!--
