@@ -32,6 +32,6 @@ I'm a passionate **Software Engineer** with experience in **Web technologies**. 
 
 ## Stats 📈
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasibnadim&bg_color=262470&color=d8d4ff&line=00ff73&point=ffffff&area=false&hide_title=false)
-![GitHub Readme Stats - Stats Card](https://github-readme-stats.vercel.app/api?username=hasibnadim&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&rank_icon=percentile)
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=hasibnadim&rank=SSS%2CSS%2CS%2CAAA%2CAA%2CA%2CSECRET%2CB)
+![GitHub Readme Stats - Stats Card](https://github-readme-stats.vercel.app/api?username=hasibnadim&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=transparent)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=hasibnadim&rank=SSS%2CSS%2CS%2CAAA%2CAA%2CA%2CSECRET%2CB&theme=dark_dimmed)
 
